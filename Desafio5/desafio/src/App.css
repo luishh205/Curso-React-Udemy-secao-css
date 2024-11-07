@@ -1,0 +1,13 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.Detalhes{
+  background-color: rgb(231, 61, 61);
+  width: 100%;
+  padding: 15px;
+
+}
+
